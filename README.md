@@ -16,7 +16,6 @@ This project demonstrates containerization of a Java web application (vProfile) 
 - **Memcached** caching service
 - **RabbitMQ** message broker
 
-## 🚀 Quick Start
 
 ### Prerequisites
 - Ubuntu 20.04+ or any Linux distribution
@@ -53,6 +52,11 @@ vprofile-project-containerization/
 ├── application.properties   # Application configuration
 ├── setup.sh                # Environment setup script
 └── README.md               # Project documentation
+
+
+
+
+
 🔧 Key Features
 ✅ Fixed MySQL admin user authentication issues
 
